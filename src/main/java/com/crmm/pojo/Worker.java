@@ -18,4 +18,6 @@ public class Worker {
     private String wtel;
     private int deptid;
     private String wimg;
+
+    public Worker(int id,String wname,String wsex ,String wtel){}
 }
