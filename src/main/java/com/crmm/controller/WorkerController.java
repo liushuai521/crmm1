@@ -51,4 +51,10 @@ public class WorkerController {
     public int del(int id){
         return ws.deleWorter(id);
     }
+    
+    /***liushuai add start 0905*****/
+     public int del2(int id){
+        return ws.deleWorter(id);
+    }
+    /***liushuai add end 0905*****/
 }
