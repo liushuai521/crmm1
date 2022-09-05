@@ -32,4 +32,8 @@ public class Logincontroller {
             exception.printStackTrace();
         }
     }
+
+    public void yebo(){
+        System.out.println("test");
+    }
 }
