@@ -36,4 +36,10 @@ public class Logincontroller {
     public void yebo(){
         System.out.println("test");
     }
+
+    /****yebo add start 0905****/
+    public void yebo2(){
+        System.out.println("test");
+    }
+    /****yebo add end 0905****/
 }
