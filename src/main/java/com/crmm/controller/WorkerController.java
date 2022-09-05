@@ -53,8 +53,10 @@ public class WorkerController {
     }
     
     /***liushuai add start 0905*****/
-     public int del2(int id){
-        return ws.deleWorter(id);
-    }
+    /***yebo delete start 0905*****/
+//     public int del2(int id){
+//        return ws.deleWorter(id);
+//    }
+    /***yebo delete end 0905*****/
     /***liushuai add end 0905*****/
 }
